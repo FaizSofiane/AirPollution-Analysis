@@ -6,12 +6,17 @@ The air pollution dataset provides geolocated information about four types of po
 
 Each record in the dataset contains the following information:
 
-Location: geolocation of the monitoring station (latitude and longitude)
-City: the name of the city where the monitoring station is located
-Country: the name of the country where the monitoring station is located
-DateTime: the date and time of the measurement
-NO2: the hourly concentration of Nitrogen Dioxide (in micrograms per cubic meter, µg/m³)
-O3: the hourly concentration of Ozone (in µg/m³)
-CO: the hourly concentration of Carbon Monoxide (in milligrams per cubic meter, mg/m³)
-PM2.5: the hourly concentration of Particulate Matter with a diameter of 2.5 micrometers or less (in µg/m³)
+City: the name of the city where the monitoring station is located.
+
+Country: the name of the country where the monitoring station is located.
+
+NO2: the hourly concentration of Nitrogen Dioxide (in micrograms per cubic meter, µg/m³).
+
+O3: the hourly concentration of Ozone (in µg/m³).
+
+CO: the hourly concentration of Carbon Monoxide (in milligrams per cubic meter, mg/m³).
+
+PM2.5: the hourly concentration of Particulate Matter with a diameter of 2.5 micrometers or less (in µg/m³).
+
+
 The dataset is provided in a comma-separated values (CSV) file format, which can be easily imported into a wide range of data analysis tools and programming languages for further analysis and visualization.
